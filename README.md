@@ -1,2 +1,2 @@
 # FrankyYTDownloader
-A little project, is a simple but powerfull Video Downloader.
+A little project, is a simple but powerfull Music Downloader.
